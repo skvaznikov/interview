@@ -1,0 +1,17 @@
+Cleveland, Chicago
+Houston, Denver
+New York, Chicago
+Nashville, Tampa
+Omaha, Salt Lake City
+Columbus, Charlotte
+Denver, Kansas City
+Chicago, Los Angeles
+Kansas City, Nashville
+Charlotte, Omaha
+Los Angeles, Phoenix
+Phoenix, Cleveland
+Tampa, Houston
+Kansas City, Tampa
+Seattle, Salt Lake City
+Omaha, Columbus
+Moscow,Taganrog
